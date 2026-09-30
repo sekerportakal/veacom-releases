@@ -20,6 +20,7 @@ Windows ilk açılışta "Windows kişisel bilgisayarınızı korudu" uyarısı 
 - MPR ve oblik MPR
 - PET/BT füzyon (SUV), ölçüm ve ROI araçları
 - Resim, DICOM (anonimleştirme ile) ve video olarak dışa aktarma
+- DICOMDIR olarak CD/DVD, USB bellek, klasör ya da ISO'ya yazma (nöronavigasyon için)
 
 ## Uyarı
 
